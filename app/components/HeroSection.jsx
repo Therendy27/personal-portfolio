@@ -24,8 +24,6 @@ const HeroSection = () => {
         1000,
         'UI/UX Designer',
         1000,
-        'Data Engineer',
-        1000
       ]}
       wrapper="span"
       speed={50}
@@ -34,7 +32,7 @@ const HeroSection = () => {
     />
         </h1>
         <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident ipsum quo doloremque neque !
+        Passionate and innovative web developer and web designer with a strong foundation in HTML, CSS, and JavaScript, dedicated to creating visually stunning and user-friendly websites that exceed client expectations.
         </p>
         <div>
           <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-green-500 to-blue-500  hover:slate-200 text-white'>Hire Me</button>
