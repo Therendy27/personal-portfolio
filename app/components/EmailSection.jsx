@@ -141,7 +141,7 @@ const EmailSection = () => {
         {showPopup && (
         <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
           <div className="bg-[#121212] p-6 rounded shadow-lg text-center">
-            <p className='text-white'>Thanks for the connecting!</p>
+            <p className='text-white'>Thanks for connecting!</p>
             <button onClick={closePopup} className="mt-4 px-4 py-2 bg-green-500 text-white rounded">
               Close
             </button>
