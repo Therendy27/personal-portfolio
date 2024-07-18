@@ -11,8 +11,8 @@ const projectsData = [
       description: " My react tic tac toe game is a classic board game where two players take turns marking X's and O's on a 3x3 grid. The objective is to get three of your marks in a row, either horizontally, vertically, or diagonally, before your opponent does. The game is played on a user-friendly interface with interactive features that allow players to easily make their moves and keep track of the score.",
       image: "/images/projects/React-TicTacToe.png",
       tag: ["All", "web dev"],
-      gitUrl: "/",
-      previewUrl: "/",
+      gitUrl: "https://github.com/Therendy27/tictactoe",
+      previewUrl: "https://tictactoe-nu-five.vercel.app/",
 
     },
     {
@@ -21,8 +21,8 @@ const projectsData = [
       description: "The React-Trivia Game with 20 questions is a fun and interactive way to test your knowledge of data structures. With a variety of questions ranging from linked lists to binary trees, this game will challenge your understanding and help you strengthen your grasp on these fundamental concepts. ",
       image: "/images/projects/React-Trivia.png",
       tag: ["All", "web dev"],
-      gitUrl: "/",
-      previewUrl: "/",
+      gitUrl: "https://github.com/Therendy27/react-trivia/tree/main/react-app",
+      previewUrl: "https://re-trivia.vercel.app/",
    
     },
     {
@@ -32,37 +32,37 @@ const projectsData = [
       image: "/images/projects/travel.png",
       tag: ["All", "web design"],
       gitUrl: "/",
-      previewUrl: "/",
+      previewUrl: "https://travel-eight-ecru.vercel.app/",
      
     },
     {
       id: 4,
-      title: "Food Ordering Application",
-      description: "Project 4 description",
-      image: "/images/projects/2.png",
+      title: "Personal Porfolio Project",
+      description: "This personal portfolio project showcases the work and skills of a web developer. Key sections include: Header: Logo (TS) with links to About, Projects, and Contact pages.Introduction: A welcome message, a brief overview of skills (HTML, CSS, JavaScript), a profile picture, and call-to-action buttons.About Me: A detailed description of the developers expertise and passion for web development, along with a list of technical skills (React, Node.js, MongoDB, MySQL, HTML/CSS, Python, JavaScript/TypeScript).",
+      image: "/images/projects/portfolio-1.png",
       tag: ["All", "web dev"],
-      gitUrl: "/",
+      gitUrl: "",
       previewUrl: "/",
     },
     {
       id: 5,
-      title: "React Firebase Template",
-      description: "Authentication and CRUD operations",
-      image: "/images/projects/2.png",
-      tag: ["All", "web design"],
-      gitUrl: "/",
-      previewUrl: "/",
+      title: "CRUD project",
+      description: "A CRUD application allows users to manage data. In this web application. Create: Users can add new tasks using a form. The Create button likely opens this form. Read: Displays a list of tasks from the database. The search bar helps filter tasks, and the table shows task details like title, description, and creation date. Update: Users can modify existing tasks. The Edit button next to each task likely opens a form to update task details.Delete: Users can remove tasks. The Delete  button next to each task removes it from the database.",
+      image: "/images/projects/crud.png",
+      tag: ["All", "web dev"],
+      gitUrl: "/https://github.com/Therendy27/task-manager",
+      previewUrl: "https://task-manager-1jxpdcyo3-therendy-suffrens-projects.vercel.app/",
 
       
     },
     {
       id: 6,
-      title: "Full-stack Roadmap",
-      description: "Project 5 description",
-      image: "/images/projects/2.png",
-      tag: ["All", "web dev"],
-      gitUrl: "/",
-      previewUrl: "/",
+      title: "Travel Agency Figma App",
+      description: "Figma layout is for a travel website, Discover Mountain. It includes: Header: Logo and navigation links (Activities, Testimonials, Destinations).Hero Section: Background mountain image, title Explore The World,and a search bar. Activities Section: Lists activities offered (e.g., Hiking, Cycling) with images and descriptions.Testimonials Section: Client testimonial with a quote and a small profile picture.Luxury Destination Section: Grid of images showcasing luxury travel destinations. Newsletter Signup: Signup form for the newsletter with a background image of mountains.",
+      image: "/images/projects/figma-1.png",
+      tag: ["All", "web design"],
+      gitUrl: "" ,
+      previewUrl: "https://www.figma.com/proto/FXJKvkSVqP7fhicxxb4X8C/Travel-Website?page-id=17%3A200&node-id=17-331&viewport=670%2C-1715%2C0.12&t=vyzR9D4B613S3iF8-1&scaling=min-zoom&content-scaling=fixed",
      
     },
   ];

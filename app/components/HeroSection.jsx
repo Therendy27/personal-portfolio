@@ -1,7 +1,6 @@
 "use client"
 import React from 'react'
 import Image from 'next/image'
-
 import { TypeAnimation } from 'react-type-animation';
 import {motion} from "framer-motion"
 
@@ -42,8 +41,8 @@ const HeroSection = () => {
         <div>
           <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-green-500 to-blue-500  hover:slate-200 text-white'>Hire Me</button>
           <button className='px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-green-500 to-blue-500  hover:bg-slate-800 text-white  mt-3'>
-            <span className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2'>Resume Resume</span>
-          </button>
+            <a href = "https://docs.google.com/document/d/1ZEobA27-7y0Dq2t7b2Frnv3VrRqCWJMh/edit?usp=sharing&ouid=107999661028793789994&rtpof=true&sd=true"className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2'>Resume </a>
+          </button> 
         </div>
         </motion.div>
         
