@@ -67,7 +67,7 @@ const AboutSection = () => {
             visually appealing web applications. Also have a keen eye for UX/UI. Well-designed websites 
             not only look good, but also enhance user experience with intuitive navigation and engaging 
             interfaces. With my technical expertise and passion for design, I create aesthetically 
-            pleasing and functional web applications. I'm committed to delivering high-quality solutions 
+            pleasing and functional web applications. I&apos;m committed to delivering high-quality solutions 
             that meet the needs of clients and users by continuously expanding my skills and staying up-to-date
              with the latest technologies. 
             </p>
