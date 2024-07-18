@@ -31,7 +31,7 @@ const projectsData = [
       description: "Learn how to build a feature-rich travel application with Next.js 14 and Tailwind CSS, including everything from mobile-first design principles to a sleek user interface",
       image: "/images/projects/travel.png",
       tag: ["All", "web design"],
-      gitUrl: "/",
+      gitUrl: "https://github.com/Therendy27/travel/tree/main/travel_app",
       previewUrl: "https://travel-eight-ecru.vercel.app/",
      
     },
@@ -50,7 +50,7 @@ const projectsData = [
       description: "A CRUD application allows users to manage data. In this web application. Create: Users can add new tasks using a form. The Create button likely opens this form. Read: Displays a list of tasks from the database. The search bar helps filter tasks, and the table shows task details like title, description, and creation date. Update: Users can modify existing tasks. The Edit button next to each task likely opens a form to update task details.Delete: Users can remove tasks. The Delete  button next to each task removes it from the database.",
       image: "/images/projects/crud.png",
       tag: ["All", "web dev"],
-      gitUrl: "/https://github.com/Therendy27/task-manager",
+      gitUrl: "https://github.com/Therendy27/task-manager",
       previewUrl: "https://task-manager-1jxpdcyo3-therendy-suffrens-projects.vercel.app/",
 
       
