@@ -1,7 +1,7 @@
 "use client";
 import React from 'react'
-import GithubIcon from "/Users/therendysuffren/Desktop/Web_projects/portfolio-website/public/images/github-icon.svg";
-import LinkedInIcon from "/Users/therendysuffren/Desktop/Web_projects/portfolio-website/public/images/linkedin-icon.svg";
+// import GithubIcon from "../../../public/github-icon.svg";
+// import LinkedinIcon from "../../../public/linkedin-icon.svg";
 import Link from 'next/link'
 import Image from 'next/image'
 import { useForm, ValidationError } from '@formspree/react';
@@ -57,10 +57,10 @@ const EmailSection = () => {
         </p>
         <div className='socials flex flex-row gap-2'>
             <Link href="https://github.com/Therendy27">
-              <Image src={GithubIcon} alt="Github Icon"/>
+            <Image src="/github-icon.svg" alt="GitHub Icon" width={50} height={50} />
             </Link>
             <Link href="https://www.linkedin.com/in/therendysuffren97/">
-                <Image src={LinkedInIcon} alt="linkedin Icon"/>
+            <Image src="/linkedin-icon.svg" alt="LinkedIn Icon" width={50} height={50} />
             </Link>
         </div>
     </div>
