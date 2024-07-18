@@ -41,8 +41,8 @@ const projectsData = [
       description: "This personal portfolio project showcases the work and skills of a web developer. Key sections include: Header: Logo (TS) with links to About, Projects, and Contact pages.Introduction: A welcome message, a brief overview of skills (HTML, CSS, JavaScript), a profile picture, and call-to-action buttons.About Me: A detailed description of the developers expertise and passion for web development, along with a list of technical skills (React, Node.js, MongoDB, MySQL, HTML/CSS, Python, JavaScript/TypeScript).",
       image: "/images/projects/portfolio-1.png",
       tag: ["All", "web dev"],
-      gitUrl: "",
-      previewUrl: "/",
+      gitUrl: "https://github.com/Therendy27/personal-portfolio",
+      previewUrl: "https://therendy-portfolio.vercel.app/",
     },
     {
       id: 5,
